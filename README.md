@@ -1,9 +1,8 @@
-## Hi there 👋
+# 👋 Hello there!
 
-👋 Hello there!
 Welcome to my GitHub page! I am a student in General Engineering (ECAM-EPMI, France), in Robotics (Heriot-Watt, Scotland) and in International Purchasing & Supply Chain Management (ESSEC, France) with a passion for industrial robotics, artificial intelligence, and logistics. Here's an overview of my skills, projects, and experiences.
 
-🚀 About Me
+## 🚀 About Me
 
 🎓 Currently a student in a Specialized Master in International Purchasing & Supply Chain Management at ESSEC Business School.
 
@@ -11,9 +10,13 @@ Welcome to my GitHub page! I am a student in General Engineering (ECAM-EPMI, Fra
 
 🌍 Enjoy working on international projects and collaborating with people from diverse cultures.
 
-📫 Me contacter
+## 📫 Me contacter
+
 Email: romain_perrot@outlook.fr
+
 LinkedIn: https://www.linkedin.com/in/perrotr/
+
+<br>
 
 Thank you for visiting my GitHub page! Feel free to explore my projects and contact me with any questions or collaboration opportunities.
 
